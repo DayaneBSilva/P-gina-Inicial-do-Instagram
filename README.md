@@ -1,2 +1,2 @@
-# Pagina-Inicial-do-Instagram
-Projeto desenvolvido para Bootcamp da DIO
+# Página Inicial do Instagram
+Projeto desenvolvido para o Bootcamp da DIO
